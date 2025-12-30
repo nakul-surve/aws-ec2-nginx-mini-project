@@ -33,3 +33,6 @@ This mini project documents the steps and understanding required to deploy a bas
 - Understanding cloud server setup
 - Basics of Linux server management
 - Importance of security groups and verification
+
+## Status
+This project is part of my DevOps learning journey and will be improved over time.
